@@ -959,3 +959,8 @@ class CartPage extends StatelessWidget {
 <p>
   Di bagian bawah ada total bar yang menampilkan total keseluruhan harga dan tombol Checkout. Saat tombol Checkout ditekan akan muncul dialog konfirmasi yang menampilkan ringkasan pesanan, dan jika dikonfirmasi maka keranjang akan dikosongkan dan user kembali ke halaman utama.
 </p>
+
+# DOKUMENTASI PROGRAM
+<img width="407" height="864" alt="image" src="https://github.com/user-attachments/assets/df196514-2360-473c-9c13-4a2be4040c4b" />
+<img width="407" height="864" alt="image" src="https://github.com/user-attachments/assets/bf5e649d-7aa3-4042-b6fb-4bc5eb38f0b2" />
+<img width="407" height="864" alt="image" src="https://github.com/user-attachments/assets/247d5d27-2a7f-40b2-bc86-6e4c085cd24a" />
