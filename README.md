@@ -1,5 +1,6 @@
 # PEMOGRAMAN APLIKASI BERGERAK TUGAS 1
-<p>Tugas ini dibuat untuk memenuhi mata kuliah Pemograman Aplikasi Bergerak.</p>
+<p>Aplikasi Shopping Cart ini adalah aplikasi belanja sederhana berbasis Flutter yang menampilkan daftar produk elektronik. User dapat mencari produk, menyaring berdasarkan kategori, menambahkan produk ke keranjang belanja, lalu melanjutkan ke halaman checkout untuk menyelesaikan pembelian.</p>
+<p>Aplikasi ini dibangun menggunakan konsep State Management dengan package provider, sehingga perubahan data seperti penambahan item ke keranjang langsung tercermin di seluruh bagian aplikasi secara real-time tanpa perlu reload halaman.</p>
 
 ## pubspec.yaml
 ```dart
