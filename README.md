@@ -2413,6 +2413,9 @@ class _CircleButton extends StatelessWidget {
 
 
 # DOKUMENTASI PROGRAM
-<img width="407" height="864" alt="image" src="https://github.com/user-attachments/assets/df196514-2360-473c-9c13-4a2be4040c4b" />
-<img width="407" height="864" alt="image" src="https://github.com/user-attachments/assets/bf5e649d-7aa3-4042-b6fb-4bc5eb38f0b2" />
-<img width="407" height="864" alt="image" src="https://github.com/user-attachments/assets/247d5d27-2a7f-40b2-bc86-6e4c085cd24a" />
+<img width="1080" height="2280" alt="Screenshot_1772008861" src="https://github.com/user-attachments/assets/fea5741f-72f3-4216-9da7-0683abd349ef" />
+<img width="1080" height="2280" alt="Screenshot_1772008913" src="https://github.com/user-attachments/assets/756a0501-2041-44b1-8012-11b2d9a0f7b8" />
+<img width="1080" height="2280" alt="Screenshot_1772008919" src="https://github.com/user-attachments/assets/ebf9c4bd-2e95-4c67-be04-4ae311917698" />
+<img width="1080" height="2280" alt="Screenshot_1772008926" src="https://github.com/user-attachments/assets/8910875b-a6f0-4486-8317-6ca7706f5567" />
+<img width="1080" height="2280" alt="Screenshot_1772008946" src="https://github.com/user-attachments/assets/6e43f13f-82fa-48ca-b8e9-2da6e007e561" />
+
